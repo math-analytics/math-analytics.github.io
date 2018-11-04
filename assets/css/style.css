@@ -625,7 +625,7 @@ Buttons
   .navbar-transparent .navbar-brand img {
     position: absolute;
     top: 1.5rem;
-    margin-top: 0px; }
+    margin-top: -18px; }
     .navbar-transparent .navbar-brand img.logo-scroll {
       opacity: 0;
       visibility: hidden; }
@@ -1054,7 +1054,7 @@ Work process
 Hero templates
 */
 h3.display-4 {
-  text-transform: capitalize; }
+  /*text-transform: capitalize;*/ }
 
 .hero-parallax {
   height: 100%;
@@ -1071,7 +1071,7 @@ h3.display-4 {
       .hero-parallax .hero-inner .hero-content h3 {
         font-weight: 400;
         color: #fff;
-        text-transform: capitalize; }
+        /*text-transform: capitalize;*/ }
       .hero-parallax .hero-inner .hero-content p {
         color: #fff; }
 
@@ -1455,7 +1455,7 @@ Features tabs style
     margin-top: 15px; }
   .navbar-toggler.navbar-toggler-right {
     position: absolute;
-    top: 12px;
+    top: 22px;
     right: 49px;
     background-color: #f5f5f5;
     border-radius: 3px; }
